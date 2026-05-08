@@ -421,7 +421,7 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 </tr>
 
 <tr>
-<td>NewPipe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/newpipe.svg" width="100" title="NewPipe"><br>260 bytes</td>
+<td>NewPipe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/newpipe.svg" width="100" title="NewPipe"><br>259 bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="100" title="NextCloud"><br>250 bytes</td>
 <td>NGINX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="100" title="NGINX"><br>450 bytes</td>
 <td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="100" title="NHS"><br>474 bytes</td>
