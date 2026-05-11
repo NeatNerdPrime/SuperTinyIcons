@@ -63,7 +63,7 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 <tr>
 <td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>298 bytes</td>
 <td>Baidu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/baidu.svg" width="100" title="Baidu"><br>783 bytes</td>
-<td>BambuLabs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bambulab.svg" width="100" title="BambuLabs"><br>341 bytes</td>
+<td>Bambu Lab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bambulab.svg" width="100" title="Bambu Lab"><br>306 bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="100" title="Bandcamp"><br>188 bytes</td>
 <td>Bash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="100" title="Bash"><br>756 bytes</td>
 <td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="100" title="Behance"><br>666 bytes</td>
